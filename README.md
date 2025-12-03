@@ -6,6 +6,12 @@
   <img src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" width="426" height="471" alt="5EUG6FD" />
 </p>
 
+## 🌐 Setup Remote Access — TeamViewer
+
+> ## As part of this simulation, I set up secure remote access to a Windows 10 laptop using TeamViewer. I connected from my Windows 11 desktop to safely monitor, manage, and gather information on the laptop. This allowed me to practice remote IT management, ensure secure connectivity, and document my process for a simulated real-world remote IT support scenario.
+
+<img width="677" height="340" alt="DxpmOlD" src="https://github.com/user-attachments/assets/632067e1-eac9-494b-bea1-f6893c88f793" />
+
 # 🎫 **TICKET 1 — CEO Travel Laptop Intake & Security Requirements**
 > ### I collect all essential system and security information from the CEO’s personal laptop so I can prepare it for secure remote work and vulnerability scanning.
 <img width="677" height="281" alt="TMA3lY9" src="https://github.com/user-attachments/assets/80e40663-6ec7-4a39-a399-d7c0df458231" />
