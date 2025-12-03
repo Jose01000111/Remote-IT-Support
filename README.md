@@ -8,6 +8,8 @@
 
 # 🎫 **TICKET 1 — CEO Travel Laptop Intake & Security Requirements**
 
+<img width="677" height="281" alt="TMA3lY9" src="https://github.com/user-attachments/assets/80e40663-6ec7-4a39-a399-d7c0df458231" />
+
 > ### I collect all essential system and security information from the CEO’s personal laptop so I can prepare it for secure remote work and vulnerability scanning.
 
 > ### 🖥️ I gather system information such as hostname, OS version, IP settings, and architecture.  
@@ -22,6 +24,8 @@
 
 # 🎫 **TICKET 2 — Creation & Security of CEO-Work Windows Account**
 
+<img width="655" height="280" alt="NXW5cUj" src="https://github.com/user-attachments/assets/3c5f9814-41cd-418e-8016-5ca9e4a11d21" />
+
 > ### I build a secure, isolated work-only user account so the CEO’s business tasks stay protected and separate from personal activity.
 
 > ### 👤 I create a **CEO-Work** standard account with restricted privileges.  
@@ -34,6 +38,8 @@
 ---
 
 # 🎫 **TICKET 3 — Device Preparation for Tenable Credentialed Scan**
+
+<img width="664" height="280" alt="c9rhfUJ" src="https://github.com/user-attachments/assets/1de1f877-98a2-4cc8-85c8-c056e8337f9b" />
 
 > ### I ensure the laptop can be credential-scanned by Tenable by enabling required services, verifying credentials, and confirming network accessibility.
 
@@ -48,6 +54,8 @@
 
 # 🎫 **TICKET 4 — Add Asset to Tenable & Create Scan Policies**
 
+<img width="633" height="283" alt="HEQbTLR" src="https://github.com/user-attachments/assets/91b58f75-582f-4178-a0f0-cc6cefe00736" />
+
 > ### I add the CEO’s laptop to Tenable and configure multiple scan templates to perform a complete vulnerability assessment.
 
 > ### ➕ I register the laptop as a Windows asset with hostname and IP.  
@@ -60,6 +68,8 @@
 
 # 🎫 **TICKET 5 — Execute the Tenable Scan and Review Results**
 
+<img width="633" height="277" alt="fM5mWOn" src="https://github.com/user-attachments/assets/8b9ebc8f-7772-4c11-9bd9-fc84ef3507e3" />
+
 > ### I run the full scan, analyze the findings, categorize vulnerabilities, and document everything for later remediation.
 
 > ### ▶️ I start the scan and monitor its progress.  
@@ -71,6 +81,8 @@
 ---
 
 # 🎫 **TICKET 6 — Vulnerability Remediation for CEO Laptop**
+
+<img width="673" height="286" alt="PEQtzVw" src="https://github.com/user-attachments/assets/1651a6ba-e943-4c03-962c-65cb4e31ccc4" />
 
 > ### I fix the weaknesses identified by Tenable and harden the laptop to meet the organization’s baseline security posture.
 
@@ -86,6 +98,8 @@
 
 # 🎫 **TICKET 7 — Registry Security Audit Checklist**
 
+<img width="680" height="280" alt="eS78Wqs" src="https://github.com/user-attachments/assets/c6642ce9-a26c-450d-b763-5558cae3b3be" />
+
 > ### I audit key registry paths related to remote access, firewall behavior, authentication, and startup entries to ensure the system is aligned with security best practices.
 
 > ### 🔐 I review registry keys controlling RDP and Remote Assistance.  
@@ -97,6 +111,8 @@
 ---
 
 # 🎫 **TICKET 8 — Windows Security Review & Hardening Validation**
+
+<img width="681" height="282" alt="KK5yHs4" src="https://github.com/user-attachments/assets/48f56e9d-43b5-4a8a-b3f9-cacc69afba9b" />
 
 > ### I perform a full inspection of Windows Security features to confirm that the laptop is protected at all layers.
 
@@ -112,6 +128,8 @@
 
 # 🎫 **TICKET 9 — Remote Access Validation (RDP & SSH)**
 
+<img width="675" height="284" alt="AStJvYU" src="https://github.com/user-attachments/assets/b69672f6-4781-4f9c-b3b9-e229e6938b27" />
+
 > ### I verify that remote access methods are secure and functional so the CEO can access corporate systems while traveling.
 
 > ### 🔐 I restrict RDP usage to VPN-only connections.  
@@ -123,6 +141,8 @@
 ---
 
 # 🎫 **TICKET 10 — Hotel Wi-Fi & Network Security Assessment**
+
+<img width="664" height="274" alt="fXD5fwP" src="https://github.com/user-attachments/assets/51360573-7e5f-44cf-b508-1e338bd4d85c" />
 
 > ### I review the hotel network the CEO is using to ensure it is safe, and I identify any potential risks while advising secure alternatives.
 
@@ -137,6 +157,8 @@
 ---
 
 # 🎫 **TICKET 11 — Printer Setup for CEO on Work Trip**
+
+<img width="682" height="277" alt="uifNwBc" src="https://github.com/user-attachments/assets/ba07e27c-ecf3-477d-9cde-6334172b199f" />
 
 > ### I configure the CEO’s portable printer so it functions reliably while traveling.
 
