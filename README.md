@@ -2,11 +2,15 @@
  
 > ## I am Jose G. (IT Specialist), responsible for securing CEO Alexander Pierce’s personal Windows 10 laptop during a business trip. My tasks include building a secure work profile, running Tenable credentialed scans, hardening the system, configuring remote access, setting up a portable printer, reviewing hotel Wi-Fi security, and secure work enviorment.
 
-<img width="426" height="471" alt="5EUG6FD" src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" />
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img width="426" height="471" alt="5EUG6FD" src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" />
-</div>
+<body style="margin:0; height:100vh; display:flex; justify-content:center; align-items:center;">
+  <img src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" 
+       alt="5EUG6FD" width="426" height="471">
+</body>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" width="426" height="471" alt="5EUG6FD" />
+</p>
 
 
 # 🎫 **TICKET 1 — CEO Travel Laptop Intake & Security Requirements**
