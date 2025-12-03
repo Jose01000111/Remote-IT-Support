@@ -4,7 +4,7 @@
 
 <img width="426" height="471" alt="5EUG6FD" src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" />
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img width="426" height="471" alt="5EUG6FD" src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" />
 </div>
 
