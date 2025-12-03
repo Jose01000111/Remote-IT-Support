@@ -26,7 +26,7 @@
 
 > ### 🛡️ I verify what antivirus, VPN, and remote-access tools are present.
 
-
+<img width="767" height="471" alt="szc78Wj" src="https://github.com/user-attachments/assets/72945c2c-6366-4f2d-975b-6a5f59fca161" />
 
 > ### 👑 I confirm whether the CEO has admin rights on the device.
 
@@ -34,11 +34,11 @@
 
 > ### 📶 I determine if the laptop will use hotel Wi-Fi or a mobile hotspot.
 
-
+<img width="713" height="200" alt="LWKr1Oi" src="https://github.com/user-attachments/assets/e466ed79-29ac-4ff3-a905-c627fdc269a2" />
 
 > ### 🖨️ I check how the travel printer connects (USB or Wi-Fi Direct).
 
-
+<img width="855" height="225" alt="C3Tk7R2" src="https://github.com/user-attachments/assets/eb606c0a-f5bc-4d4c-87c1-270bf9310031" />
 
 > ### 🔐 I confirm BitLocker, RDP, and SSH requirements.
 
