@@ -1,9 +1,12 @@
 # ⭐ 🔐 Remote IT Support — Executive Travel Security & Tenable Ops
-
-## ✈️ Scenario  
-> ## I am Jose G. (IT Specialist), responsible for securing CEO Alexander Pierce’s personal Windows 10 laptop during a business trip. My tasks include building a secure work profile, running Tenable credentialed scans, hardening the system, configuring remote access, setting up a portable printer, reviewing hotel Wi-Fi security, and delivering a final documented portfolio.
+ 
+> ## I am Jose G. (IT Specialist), responsible for securing CEO Alexander Pierce’s personal Windows 10 laptop during a business trip. My tasks include building a secure work profile, running Tenable credentialed scans, hardening the system, configuring remote access, setting up a portable printer, reviewing hotel Wi-Fi security, and secure work enviorment.
 
 <img width="426" height="471" alt="5EUG6FD" src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" />
+
+<div style="text-align: center;">
+  <img width="426" height="471" alt="5EUG6FD" src="https://github.com/user-attachments/assets/b55b42e2-53eb-4da6-966b-cd1e9825b04a" />
+</div>
 
 
 # 🎫 **TICKET 1 — CEO Travel Laptop Intake & Security Requirements**
