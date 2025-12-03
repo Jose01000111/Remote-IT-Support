@@ -16,13 +16,38 @@
 > ### I collect all essential system and security information from the CEO’s personal laptop so I can prepare it for secure remote work and vulnerability scanning.
 <img width="677" height="281" alt="TMA3lY9" src="https://github.com/user-attachments/assets/80e40663-6ec7-4a39-a399-d7c0df458231" />
 
-> ### 🖥️ I gather system information such as hostname, OS version, IP settings, and architecture.  
-> ### 🔍 I review installed software and check for outdated programs.  
-> ### 🛡️ I verify what antivirus, VPN, and remote-access tools are present.  
-> ### 👑 I confirm whether the CEO has admin rights on the device.  
-> ### 📶 I determine if the laptop will use hotel Wi-Fi or a mobile hotspot.  
-> ### 🖨️ I check how the travel printer connects (USB or Wi-Fi Direct).  
+> ### 🖥️ I gather system information such as hostname, OS version, IP settings, and architecture.
+
+<img width="716" height="501" alt="og1D8Rm" src="https://github.com/user-attachments/assets/ec159b4d-447b-4ead-972c-cfd21937fd86" />
+ 
+> ### 🔍 I review installed software and check for outdated programs.
+
+<img width="636" height="426" alt="wSj5TTS" src="https://github.com/user-attachments/assets/57ba3878-ee54-4b38-9469-c26215376a61" />
+
+> ### 🛡️ I verify what antivirus, VPN, and remote-access tools are present.
+
+
+
+> ### 👑 I confirm whether the CEO has admin rights on the device.
+
+<img width="244" height="258" alt="Dxgg16k" src="https://github.com/user-attachments/assets/6d1334fb-def7-4631-b74a-1924dcac63a4" />
+
+> ### 📶 I determine if the laptop will use hotel Wi-Fi or a mobile hotspot.
+
+
+
+> ### 🖨️ I check how the travel printer connects (USB or Wi-Fi Direct).
+
+
+
 > ### 🔐 I confirm BitLocker, RDP, and SSH requirements.
+
+<img width="397" height="195" alt="0MY9zv7" src="https://github.com/user-attachments/assets/309db0ef-1a30-4be4-a078-fd55e7cecfa6" />
+
+<img width="675" height="134" alt="nOcHsKq" src="https://github.com/user-attachments/assets/5c41e472-65fe-4ca1-96fc-8ffc9746670b" />
+
+
+
 
 ---
 
