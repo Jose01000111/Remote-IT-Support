@@ -44,15 +44,105 @@
 > ### 🔥 I identify firewall rules that may interrupt the credentialed scan.  
 > ### 🛡️ I review UAC and security software to ensure nothing blocks Tenable.
 
+---
 
-# 🎫 **TICKET 12 — Final Documentation, SLA Review & Portfolio Packaging**
+# 🎫 **TICKET 4 — Add Asset to Tenable & Create Scan Policies**
 
-> I compile all ticket actions, screenshots, scan results, and remediation steps into a professional final deliverable for my portfolio.
+> ### I add the CEO’s laptop to Tenable and configure multiple scan templates to perform a complete vulnerability assessment.
 
-### Tasks  
-> 📝 I record timestamps and actions for each ticket.  
-> 📊 I include before-and-after Tenable scan comparisons.  
-> 📸 I add screenshots covering Windows Security, registry audits, and printer setup.  
-> 🧹 I summarize all vulnerabilities fixed and improvements made.  
-> 📦 I prepare a clean, professional GitHub project folder.  
-> 🧠 I write lessons learned and recommendations for future improvements.
+> ### ➕ I register the laptop as a Windows asset with hostname and IP.  
+> ### 🔑 I apply the correct Windows credential set for authenticated scans.  
+> ### 📊 I build scans such as Basic Network Scan, Advanced Scan, and Patch Audit.  
+> ### ⚙️ I enable checks for patches, weak configurations, and compliance gaps.  
+> ### 🗓️ I save and schedule the scans manually for the lab environment.
+
+---
+
+# 🎫 **TICKET 5 — Execute the Tenable Scan and Review Results**
+
+> ### I run the full scan, analyze the findings, categorize vulnerabilities, and document everything for later remediation.
+
+> ### ▶️ I start the scan and monitor its progress.  
+> ### 📄 I export the complete scan report after it finishes.  
+> ### 🔥 I categorize issues by severity (Critical, High, Medium, Low).  
+> ### 🧭 I identify missing patches, outdated software, firewall issues, weak RDP, and insecure authentication settings.  
+> ### 📸 I capture screenshots of the Tenable dashboard and findings.
+
+---
+
+# 🎫 **TICKET 6 — Vulnerability Remediation for CEO Laptop**
+
+> ### I fix the weaknesses identified by Tenable and harden the laptop to meet the organization’s baseline security posture.
+
+> ### ⬆️ I apply Windows Updates and reboot if required.  
+> ### 🔄 I update all third-party software including browsers and PDF tools.  
+> ### 🛡️ I ensure Defender real-time protection is active and functional.  
+> ### 🔥 I enforce firewall profiles across Public, Private, and Domain modes.  
+> ### 🔧 I address insecure registry settings for RDP encryption, NTLM, AutoRun, and network hardening.  
+> ### 🚫 I disable unnecessary Windows services and risky startup items.  
+> ### 🔁 I perform a follow-up scan to confirm vulnerabilities were resolved.
+
+---
+
+# 🎫 **TICKET 7 — Registry Security Audit Checklist**
+
+> ### I audit key registry paths related to remote access, firewall behavior, authentication, and startup entries to ensure the system is aligned with security best practices.
+
+> ### 🔐 I review registry keys controlling RDP and Remote Assistance.  
+> ### 🔥 I verify firewall configuration keys for all profiles.  
+> ### 🛡️ I check antivirus and SmartScreen registry values.  
+> ### 🚫 I inspect LLMNR, SMB signing, and startup entry keys.  
+> ### 📄 I document any registry entries that require further remediation.
+
+---
+
+# 🎫 **TICKET 8 — Windows Security Review & Hardening Validation**
+
+> ### I perform a full inspection of Windows Security features to confirm that the laptop is protected at all layers.
+
+> ### 🧭 I review each Windows Security dashboard section for compliance.  
+> ### 🛡️ I verify Defender real-time and cloud protection are active.  
+> ### 🔥 I confirm that all firewall profiles are enabled.  
+> ### 🚫 I ensure SmartScreen and exploit protections are configured.  
+> ### 🌐 I validate browser security settings in Edge and Chrome.  
+> ### 📸 I note any warnings or missing features for documentation.  
+> ### 🔐 I recommend enabling BitLocker if not already set up.
+
+---
+
+# 🎫 **TICKET 9 — Remote Access Validation (RDP & SSH)**
+
+> ### I verify that remote access methods are secure and functional so the CEO can access corporate systems while traveling.
+
+> ### 🔐 I restrict RDP usage to VPN-only connections.  
+> ### 🔧 I confirm RDP encryption levels meet security standards.  
+> ### 🔥 I ensure RDP firewall rules apply only to Private networks.  
+> ### 💻 I set up an SSH server for secure remote PowerShell management if needed.  
+> ### 🌐 I test remote connectivity from the laptop to the admin workstation.
+
+---
+
+# 🎫 **TICKET 10 — Hotel Wi-Fi & Network Security Assessment**
+
+> ### I review the hotel network the CEO is using to ensure it is safe, and I identify any potential risks while advising secure alternatives.
+
+> ### 📶 I check whether the hotel Wi-Fi is open, captive portal, or WPA2 secured.  
+> ### 🚫 I determine if client isolation is active on the network.  
+> ### 🌐 I identify the DNS servers and network behavior.  
+> ### 🔐 I recommend a VPN if the network appears untrusted.  
+> ### 🧭 I monitor for suspicious devices or ARP behavior.  
+> ### 📉 I evaluate the network speed and latency for remote work.  
+> ### 🔒 I ensure the laptop is set to **Public** network mode.
+
+---
+
+# 🎫 **TICKET 11 — Printer Setup for CEO on Work Trip**
+
+> ### I configure the CEO’s portable printer so it functions reliably while traveling.
+
+> ### 🖨️ I identify the printer model and connection type.  
+> ### 🔌 For USB mode, I install the driver and print a test page from the CEO-Work account.  
+> ### 📡 For Wi-Fi Direct, I ensure the printer connects directly to the laptop and not the hotel Wi-Fi.  
+> ### 🧾 I capture screenshots and document the full setup.
+
+---
