@@ -92,11 +92,24 @@
 # 🎫 **TICKET 3 — Device Preparation for Tenable Credentialed Scan**
 > ### I ensure the laptop can be credential-scanned by Tenable by enabling required services, verifying credentials, and confirming network accessibility.
 <img width="664" height="280" alt="c9rhfUJ" src="https://github.com/user-attachments/assets/1de1f877-98a2-4cc8-85c8-c056e8337f9b" />
-
-> ### 🔑 I test admin credentials needed for authenticated scans.  
-> ### 🧰 I enable Remote Registry and other required Windows services.  
-> ### 🌐 I confirm the laptop can be reached through VPN or hotspot.  
-> ### 🚫 I check if hotel Wi-Fi uses client isolation that blocks scanning.  
+> ### 🔑 I test admin credentials needed for authenticated scans.
+<img width="427" height="434" alt="flW4alB" src="https://github.com/user-attachments/assets/cb4918bf-a405-478b-9cba-e87903cb6f4f" />
+> ### 🧰 I enable Remote Registry and other required Windows services.
+<img width="504" height="32" alt="EvXiEg3" src="https://github.com/user-attachments/assets/7611d80f-be45-4c42-af19-e4e95ec4ca0f" />
+---
+<img width="493" height="23" alt="5WLtfSZ" src="https://github.com/user-attachments/assets/5626eee5-98be-4d35-b3b0-c9879bf66463" />
+### 📝 Notes
+> WMI allows Tenable credentialed scans even if Remote Registry is disabled.  
+> Server service must be running for network shares and credentialed access.  
+> Remote Registry being disabled on Windows 10 Home is expected and does not block scans.  
+> Document system name from WMI output for portfolio verification.  
+> ### 🚫 I check if hotel Wi-Fi uses client isolation that blocks scanning.
+<img width="620" height="226" alt="SohfBMK" src="https://github.com/user-attachments/assets/a7800a32-82da-4aa0-9b78-bd52fa4a8f4c" />
+### 📝 Notes
+> Packet loss may indicate unstable network or issues with hotel Wi-Fi.  
+> Use VPN or mobile hotspot if cloud.tenable.com cannot be reliably reached.  
+> Ping results are important to document in the portfolio to show network readiness.  
+> Note average latency and percentage of lost packets.  
 > ### 🔥 I identify firewall rules that may interrupt the credentialed scan.  
 > ### 🛡️ I review UAC and security software to ensure nothing blocks Tenable.
 
