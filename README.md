@@ -61,12 +61,24 @@
 > ### I build a secure, isolated work-only user account so the CEO’s business tasks stay protected and separate from personal activity.
 <img width="655" height="280" alt="NXW5cUj" src="https://github.com/user-attachments/assets/3c5f9814-41cd-418e-8016-5ca9e4a11d21" />
 
-> ### 👤 I create a **CEO-Work** standard account with restricted privileges.  
-> ### 🔧 I set up an optional local admin account for IT maintenance.  
-> ### 🔑 I enforce a strong password policy with complexity and length.  
-> ### 📁 I organize a clean folder structure for work documents and logs.  
-> ### 🚫 I ensure personal apps and data are not accessible inside the work account.  
-> ### 🧹 I disable unnecessary startup programs within the work profile.
+> ### 👤 I create a **CEO-Work** standard account with restricted privileges.
+  <img width="418" height="352" alt="pHQvggS" src="https://github.com/user-attachments/assets/31d4cc74-1810-4e4b-95e6-fdfc9a32baca" />
+> ### 🔧 I set up an optional local admin account for IT maintenance.
+<img width="332" height="90" alt="sRkPaLk" src="https://github.com/user-attachments/assets/2d153be7-6abd-4bdd-9cab-af307a3392a0" />
+> ### 🔑 I enforce a strong password policy with complexity and length.
+<img width="408" height="20" alt="KsYV3jV" src="https://github.com/user-attachments/assets/5ed75ab5-f6c9-4d60-9dc7-840d9a19f933" />
+<img width="365" height="161" alt="AoJ0yDn" src="https://github.com/user-attachments/assets/98387b3b-18b8-4651-8690-77cb0f89a15c" />
+> ### 📁 I organize a clean folder structure for work documents and logs.
+<img width="897" height="390" alt="KnN3Ppu" src="https://github.com/user-attachments/assets/4e776346-7b60-4422-94c6-787beafd9fb7" />
+> ### 🌐 Set folder permissions via PowerShell:
+<img width="889" height="215" alt="r2Zn76a" src="https://github.com/user-attachments/assets/ef067d17-4761-42f8-9a1e-6fdc1e0cb252" />
+> ### 🚫 I ensure personal apps and data are not accessible inside the work account.
+<img width="370" height="482" alt="JNhaAFX" src="https://github.com/user-attachments/assets/8df3415f-0b6c-4d77-bec3-1d0fe0fb5c8f" />
+> ### 🧹 Harden Security & Optimize System Using PowerShell
+> -🛡️ Account Setup & Passwords
+<img width="709" height="306" alt="wab5gmn" src="https://github.com/user-attachments/assets/5f0eee2a-b2e3-40ba-95f3-b17f7b50b3d4" />
+> -🔐 Personal Data & Startup
+<img width="863" height="235" alt="wacTKid" src="https://github.com/user-attachments/assets/5d2c9e48-a332-4c8d-b328-6cb5eb5f8410" />
 
 ---
 
