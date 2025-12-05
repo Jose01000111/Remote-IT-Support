@@ -130,27 +130,19 @@
 
 ---
 
-# 🎫 **TICKET 4 — Add Asset to Tenable & Create Scan Policies**
-> ### I add the CEO’s laptop to Tenable and configure multiple scan templates to perform a complete vulnerability assessment.
-<img width="633" height="283" alt="HEQbTLR" src="https://github.com/user-attachments/assets/91b58f75-582f-4178-a0f0-cc6cefe00736" />
+# 🎫 **TICKET 4 & 5 — Tenable Scan Setup and Execution for CEO Laptop**
 
-> ### ➕ I register the laptop as a Windows asset with hostname and IP.  
-> ### 🔑 I apply the correct Windows credential set for authenticated scans.  
-> ### 📊 I build scans such as Basic Network Scan, Advanced Scan, and Patch Audit.  
-> ### ⚙️ I enable checks for patches, weak configurations, and compliance gaps.  
-> ### 🗓️ I save and schedule the scans manually for the lab environment.
+> ### I add CEO Alexander Pierce’s Windows 10 laptop to Tenable.io, configure a Basic Network Scan with authenticated credentials, run the scan, and document all findings for remediation.
 
----
-
-# 🎫 **TICKET 5 — Execute the Tenable Scan and Review Results**
-> ### I run the full scan, analyze the findings, categorize vulnerabilities, and document everything for later remediation.
+<img width="633" height="283" alt="HEQbTLR" src="https://github.com/user-attachments/assets/91b58f75-582f-4178-a0f0-cc6cefe00736" />  
 <img width="633" height="277" alt="fM5mWOn" src="https://github.com/user-attachments/assets/8b9ebc8f-7772-4c11-9bd9-fc84ef3507e3" />
 
-> ### ▶️ I start the scan and monitor its progress.  
-> ### 📄 I export the complete scan report after it finishes.  
-> ### 🔥 I categorize issues by severity (Critical, High, Medium, Low).  
+> ### ➕ I configure the scan in Tenable.io using the IPv4 address.
+> ### ▶️ I start the scan and monitor its progress, ensuring it runs successfully.  
+> ### 🔥 I categorize vulnerabilities by severity (Critical, High, Medium, Low).  
 > ### 🧭 I identify missing patches, outdated software, firewall issues, weak RDP, and insecure authentication settings.  
-> ### 📸 I capture screenshots of the Tenable dashboard and findings.
+> ### 📄 I document all results in screenshots and notes for portfolio and remediation purposes.
+
 
 ---
 
