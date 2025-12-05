@@ -82,10 +82,10 @@
 <img width="370" height="482" alt="JNhaAFX" src="https://github.com/user-attachments/assets/8df3415f-0b6c-4d77-bec3-1d0fe0fb5c8f" />
 
 > ### 🧹 Harden Security & Optimize System Using PowerShell
-> -🛡️ Account Setup & Passwords
+> ### 🛡️ Account Setup & Passwords
 <img width="709" height="306" alt="wab5gmn" src="https://github.com/user-attachments/assets/5f0eee2a-b2e3-40ba-95f3-b17f7b50b3d4" />
 
-> -🔐 Personal Data & Startup
+> ### 🔐 Personal Data & Startup
 <img width="863" height="235" alt="wacTKid" src="https://github.com/user-attachments/assets/5d2c9e48-a332-4c8d-b328-6cb5eb5f8410" />
 
 ---
