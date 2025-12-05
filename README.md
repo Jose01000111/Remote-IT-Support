@@ -130,95 +130,39 @@
 
 ---
 
-# 🎫 **TICKET 4 & 5 — Tenable Scan Setup and Execution for CEO Laptop**
-
-> ### I add CEO Alexander Pierce’s Windows 10 laptop to Tenable.io, configure a Basic Network Scan with authenticated credentials, run the scan, and document all findings for remediation.
-
-<img width="633" height="283" alt="HEQbTLR" src="https://github.com/user-attachments/assets/91b58f75-582f-4178-a0f0-cc6cefe00736" />  
-<img width="633" height="277" alt="fM5mWOn" src="https://github.com/user-attachments/assets/8b9ebc8f-7772-4c11-9bd9-fc84ef3507e3" />
-
-> ### ➕ I configure the scan in Tenable.io using the IPv4 address.
-> ### ▶️ I start the scan and monitor its progress, ensuring it runs successfully.  
-> ### 🔥 I categorize vulnerabilities by severity (Critical, High, Medium, Low).  
-> ### 🧭 I identify missing patches, outdated software, firewall issues, weak RDP, and insecure authentication settings.  
-> ### 📄 I document all results in screenshots and notes for portfolio and remediation purposes.
-
+> ### 🎫 TICKET 4 — Add Work Files (PDFs) to CEO Laptop
+> ### I upload and organize work-related PDF files on the CEO’s Windows 10 laptop.
+> ### ➕ I create a folder named `CEO_Work_Files` in Documents.  
+> ### 📂 I copy sample PDF files into the folder.  
+> ### 🗂️ I ensure the files are properly named and sorted.  
+> ### 📄 I verify each PDF opens without errors.  
+> ### 📝 I document file paths and folder structure.
 
 ---
 
-# 🎫 **TICKET 6 — Vulnerability Remediation for CEO Laptop**
-> ### I fix the weaknesses identified by Tenable and harden the laptop to meet the organization’s baseline security posture.
-<img width="673" height="286" alt="PEQtzVw" src="https://github.com/user-attachments/assets/1651a6ba-e943-4c03-962c-65cb4e31ccc4" />
-
-> ### ⬆️ I apply Windows Updates and reboot if required.  
-> ### 🔄 I update all third-party software including browsers and PDF tools.  
-> ### 🛡️ I ensure Defender real-time protection is active and functional.  
-> ### 🔥 I enforce firewall profiles across Public, Private, and Domain modes.  
-> ### 🔧 I address insecure registry settings for RDP encryption, NTLM, AutoRun, and network hardening.  
-> ### 🚫 I disable unnecessary Windows services and risky startup items.  
-> ### 🔁 I perform a follow-up scan to confirm vulnerabilities were resolved.
+> ### 🎫 TICKET 5 — Configure Outlook for CEO
+> ### I set up a new Outlook account for the CEO for testing purposes.
+> ### 📧 I create a lab Outlook account (`ceo.lab@example.com`).  
+> ### 🔐 I configure the account in Outlook on the CEO laptop.  
+> ### 💻 I send a test email to another lab account.  
+> ### 📤 I verify sending and receiving functions correctly.  
+> ### 📝 I capture screenshots of setup and test emails.
 
 ---
 
-# 🎫 **TICKET 7 — Registry Security Audit Checklist**
-> ### I audit key registry paths related to remote access, firewall behavior, authentication, and startup entries to ensure the system is aligned with security best practices.
-<img width="680" height="280" alt="eS78Wqs" src="https://github.com/user-attachments/assets/c6642ce9-a26c-450d-b763-5558cae3b3be" />
-
-> ### 🔐 I review registry keys controlling RDP and Remote Assistance.  
-> ### 🔥 I verify firewall configuration keys for all profiles.  
-> ### 🛡️ I check antivirus and SmartScreen registry values.  
-> ### 🚫 I inspect LLMNR, SMB signing, and startup entry keys.  
-> ### 📄 I document any registry entries that require further remediation.
+> ### 🎫 TICKET 6 — Add Additional Work Documents (Word/Excel)
+> ### I upload and organize other work documents to the CEO laptop for daily tasks.
+> ### 📁 I create a folder named `CEO_Docs` in Documents.  
+> ### ➕ I copy Word and Excel sample files into the folder.  
+> ### 📝 I check files open correctly and no errors appear.  
+> ### 📄 I ensure consistent naming and version control.  
+> ### 📸 I document folder contents and file paths.
 
 ---
 
-# 🎫 **TICKET 8 — Windows Security Review & Hardening Validation**
-> ### I perform a full inspection of Windows Security features to confirm that the laptop is protected at all layers.
-<img width="681" height="282" alt="KK5yHs4" src="https://github.com/user-attachments/assets/48f56e9d-43b5-4a8a-b3f9-cacc69afba9b" />
-
-> ### 🧭 I review each Windows Security dashboard section for compliance.  
-> ### 🛡️ I verify Defender real-time and cloud protection are active.  
-> ### 🔥 I confirm that all firewall profiles are enabled.  
-> ### 🚫 I ensure SmartScreen and exploit protections are configured.  
-> ### 🌐 I validate browser security settings in Edge and Chrome.  
-> ### 📸 I note any warnings or missing features for documentation.  
-> ### 🔐 I recommend enabling BitLocker if not already set up.
-
----
-
-# 🎫 **TICKET 9 — Remote Access Validation (RDP & SSH)**
-> ### I verify that remote access methods are secure and functional so the CEO can access corporate systems while traveling.
-<img width="675" height="284" alt="AStJvYU" src="https://github.com/user-attachments/assets/b69672f6-4781-4f9c-b3b9-e229e6938b27" />
-
-> ### 🔐 I restrict RDP usage to VPN-only connections.  
-> ### 🔧 I confirm RDP encryption levels meet security standards.  
-> ### 🔥 I ensure RDP firewall rules apply only to Private networks.  
-> ### 💻 I set up an SSH server for secure remote PowerShell management if needed.  
-> ### 🌐 I test remote connectivity from the laptop to the admin workstation.
-
----
-
-# 🎫 **TICKET 10 — Hotel Wi-Fi & Network Security Assessment**
-> ### I review the hotel network the CEO is using to ensure it is safe, and I identify any potential risks while advising secure alternatives.
-<img width="664" height="274" alt="fXD5fwP" src="https://github.com/user-attachments/assets/51360573-7e5f-44cf-b508-1e338bd4d85c" />
-
-> ### 📶 I check whether the hotel Wi-Fi is open, captive portal, or WPA2 secured.  
-> ### 🚫 I determine if client isolation is active on the network.  
-> ### 🌐 I identify the DNS servers and network behavior.  
-> ### 🔐 I recommend a VPN if the network appears untrusted.  
-> ### 🧭 I monitor for suspicious devices or ARP behavior.  
-> ### 📉 I evaluate the network speed and latency for remote work.  
-> ### 🔒 I ensure the laptop is set to **Public** network mode.
-
----
-
-# 🎫 **TICKET 11 — Printer Setup for CEO on Work Trip**
+> ### 🎫 TICKET 7 — Printer Setup for CEO on Work Trip
 > ### I configure the CEO’s portable printer so it functions reliably while traveling.
-<img width="682" height="277" alt="uifNwBc" src="https://github.com/user-attachments/assets/ba07e27c-ecf3-477d-9cde-6334172b199f" />
-
 > ### 🖨️ I identify the printer model and connection type.  
 > ### 🔌 For USB mode, I install the driver and print a test page from the CEO-Work account.  
 > ### 📡 For Wi-Fi Direct, I ensure the printer connects directly to the laptop and not the hotel Wi-Fi.  
 > ### 🧾 I capture screenshots and document the full setup.
-
----
