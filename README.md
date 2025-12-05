@@ -120,7 +120,11 @@
 > Note average latency and percentage of lost packets.
 
 > ### 🔥 I identify firewall rules that may interrupt the credentialed scan.  
+<img width="399" height="362" alt="sPRtvcf" src="https://github.com/user-attachments/assets/4acadf83-8ea2-46ab-824f-a585e650db69" />
 
+---
+
+<img width="664" height="390" alt="i2uVUsX" src="https://github.com/user-attachments/assets/ebd64732-e28e-420b-ba90-e2319da36747" />
 
 ---
 
