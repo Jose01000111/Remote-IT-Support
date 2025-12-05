@@ -99,8 +99,10 @@
 > ### 🧰 I enable Remote Registry and other required Windows services.
 
 <img width="504" height="32" alt="EvXiEg3" src="https://github.com/user-attachments/assets/7611d80f-be45-4c42-af19-e4e95ec4ca0f" />
+
 ---
 <img width="493" height="23" alt="5WLtfSZ" src="https://github.com/user-attachments/assets/5626eee5-98be-4d35-b3b0-c9879bf66463" />
+
 
 ### 📝 Notes
 
