@@ -130,7 +130,7 @@
 
 ---
 
-> ### 🎫 TICKET 4 — Add Work Files (PDFs) to CEO Laptop
+# 🎫 TICKET 4 — Add Work Files (PDFs) to CEO Laptop
 > ### I upload and organize work-related PDF files on the CEO’s Windows 10 laptop.
 <img width="688" height="323" alt="ti3r48R" src="https://github.com/user-attachments/assets/fd856d82-4b18-49aa-8e25-e00cdb81aba7" />
 
@@ -142,7 +142,7 @@
 
 ---
 
-> ### 🎫 TICKET 5 — Configure Outlook for CEO
+# 🎫 TICKET 5 — Configure Outlook for CEO
 > ### I set up a new Outlook account for the CEO for testing purposes.
 <img width="667" height="298" alt="Ca3yeHv" src="https://github.com/user-attachments/assets/df74ef37-5773-47d5-9130-8dca0ba86a6b" />
 
@@ -154,7 +154,7 @@
 
 ---
 
-> ### 🎫 TICKET 6 — Add Additional Work Documents (Word/Excel)
+# 🎫 TICKET 6 — Add Additional Work Documents (Word/Excel)
 > ### I upload and organize other work documents to the CEO laptop for daily tasks.
 <img width="668" height="305" alt="2qUk8zX" src="https://github.com/user-attachments/assets/490adffe-5e16-426d-974b-3412fb3a004f" />
 
@@ -166,7 +166,7 @@
 
 ---
 
-> ### 🎫 TICKET 7 — Printer Setup for CEO on Work Trip
+# 🎫 TICKET 7 — Printer Setup for CEO on Work Trip
 > ### I configure the CEO’s portable printer so it functions reliably while traveling.
 <img width="694" height="304" alt="SsARmVw" src="https://github.com/user-attachments/assets/9d03aa56-d909-4fdf-83cd-5dd44255dece" />
 
