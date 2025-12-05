@@ -52,7 +52,6 @@
 
 > ### 🔐 I confirm BitLocker, RDP, and SSH requirements.
 <img width="397" height="195" alt="0MY9zv7" src="https://github.com/user-attachments/assets/309db0ef-1a30-4be4-a078-fd55e7cecfa6" />
-
 <img width="675" height="134" alt="nOcHsKq" src="https://github.com/user-attachments/assets/5c41e472-65fe-4ca1-96fc-8ffc9746670b" />
 
 ---
