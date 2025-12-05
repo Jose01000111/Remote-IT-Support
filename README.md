@@ -111,6 +111,8 @@
 > Remote Registry being disabled on Windows 10 Home is expected and does not block scans.  
 > Document system name from WMI output for portfolio verification.
 
+---
+
 > ### 🚫 I check if hotel Wi-Fi uses client isolation that blocks scanning.
 <img width="620" height="226" alt="SohfBMK" src="https://github.com/user-attachments/assets/a7800a32-82da-4aa0-9b78-bd52fa4a8f4c" />
 
@@ -120,6 +122,9 @@
 > Use VPN or mobile hotspot if cloud.tenable.com cannot be reliably reached.  
 > Ping results are important to document in the portfolio to show network readiness.  
 > Note average latency and percentage of lost packets.
+
+
+---
 
 > ### 🔥 I identify firewall rules that may interrupt the credentialed scan.  
 <img width="399" height="362" alt="sPRtvcf" src="https://github.com/user-attachments/assets/4acadf83-8ea2-46ab-824f-a585e650db69" />
