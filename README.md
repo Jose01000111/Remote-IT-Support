@@ -175,7 +175,15 @@
 > ### I configure the CEO’s portable printer so it functions reliably while traveling.
 <img width="694" height="304" alt="SsARmVw" src="https://github.com/user-attachments/assets/9d03aa56-d909-4fdf-83cd-5dd44255dece" />
 
-> ### 🖨️ I identify the printer model and connection type.  
-> ### 🔌 For USB mode, I install the driver and print a test page from the CEO-Work account.  
-> ### 📡 For Wi-Fi Direct, I ensure the printer connects directly to the laptop and not the hotel Wi-Fi.  
-> ### 🧾 I capture screenshots and document the full setup.
+> ### 🔌 I instruct the CEO to connect the printer to their desktop using a USB-A to USB-B cable and verify that Windows automatically detects the printer.  
+> ### 🖨️ I confirm with the CEO that the printer model is Canon TS7720.
+<img width="452" height="29" alt="UhMQMK4" src="https://github.com/user-attachments/assets/7d35db61-8ed9-4b13-ad96-14e0b3b9abe5" />
+
+---
+
+<img width="956" height="172" alt="rqqegBz" src="https://github.com/user-attachments/assets/94c65e96-989e-4fac-962e-da9f651f9f26" />
+
+> ### 🖨️ I guide the CEO to print a test page from the CEO-Work account to confirm successful printing.
+
+<img width="464" height="348" alt="9FcHh4K" src="https://github.com/user-attachments/assets/09eb13d9-a18b-40f8-905a-dfe446d10aa7" />
+
