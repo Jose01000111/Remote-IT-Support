@@ -176,15 +176,15 @@
 
 ---
 
-# 🎫 TICKET 6 — Add Additional Work Documents (Word/Excel)
-> ### I upload and organize other work documents to the CEO laptop for daily tasks.
-<img width="668" height="305" alt="2qUk8zX" src="https://github.com/user-attachments/assets/490adffe-5e16-426d-974b-3412fb3a004f" />
+# 🎫 TICKET 6 — Remote Access to Tenable via TeamViewer
+> ### I remotely log in to the CEO laptop using TeamViewer to perform a native Tenable vulnerability scan.
 
-> ### 📁 I create a folder named `CEO_Docs` in Documents.  
-> ### ➕ I copy Word and Excel sample files into the folder.  
-> ### 📝 I check files open correctly and no errors appear.  
-> ### 📄 I ensure consistent naming and version control.  
-> ### 📸 I document folder contents and file paths.
+> ### 🖥️ I connect to the CEO laptop remotely through TeamViewer.
+> ### 🔐 I verify the laptop has internet/VPN access required for Tenable authentication.
+> ### ⚙️ I open Tenable.io or Nessus locally on the laptop and configure a Basic Network Scan.
+> ### 🚀 I launch the scan and monitor progress to ensure it completes without errors.
+> ### 📄 I document scan settings, findings, and any remediation actions taken.
+
 
 ---
 
