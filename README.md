@@ -136,14 +136,15 @@
 ---
 
 # 🎫 TICKET 4 — Add Work Files (PDFs) to CEO Laptop
-> ### I upload and organize work-related PDF files on the CEO’s Windows 10 laptop.
+### I create, organize, and secure work-related PDF files on the CEO’s Windows 10 laptop, ensuring they are properly named, sorted, and protected in a password-controlled zip folder for easy access and safekeeping.
 <img width="688" height="323" alt="ti3r48R" src="https://github.com/user-attachments/assets/fd856d82-4b18-49aa-8e25-e00cdb81aba7" />
 
-> ### ➕ I create a folder named `CEO_Work_Files` in Documents.  
-> ### 📂 I copy sample PDF files into the folder.  
-> ### 🗂️ I ensure the files are properly named and sorted.  
-> ### 📄 I verify each PDF opens without errors.  
-> ### 📝 I document file paths and folder structure.
+### ➕ I create a folder named `CEO_Work_Files` in Documents.  
+### 📂 I copy sample PDF files into the folder.  
+### 🗂️ I ensure the files are properly named and sorted.  
+### 🔒 I compress the folder into a zip file and set a password.  
+### 📄 I verify each PDF opens without errors inside the zip.  
+### 📝 I document file paths, folder structure, and zip password. 
 
 ---
 
