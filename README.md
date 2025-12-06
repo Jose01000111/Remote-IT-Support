@@ -178,6 +178,7 @@
 
 # 🎫 TICKET 6 — Remote Access to Tenable via TeamViewer
 > ### I remotely log in to the CEO laptop using TeamViewer to perform a native Tenable vulnerability scan.
+<img width="708" height="332" alt="gHn68Hk" src="https://github.com/user-attachments/assets/48ccdb64-e01a-42bd-b293-f4680b0e6fab" />
 
 > ### 🖥️ I connect to the CEO laptop remotely through TeamViewer.
 > ### 🔐 I verify the laptop has internet/VPN access required for Tenable authentication.
