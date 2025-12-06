@@ -139,12 +139,28 @@
 ### I create, organize, and secure work-related PDF files on the CEO’s Windows 10 laptop, ensuring they are properly named, sorted, and protected in a password-controlled zip folder for easy access and safekeeping.
 <img width="688" height="323" alt="ti3r48R" src="https://github.com/user-attachments/assets/fd856d82-4b18-49aa-8e25-e00cdb81aba7" />
 
-> ### ➕ I create a folder named `CEO_Work_Files` in Documents.  
-> ### 📂 I copy sample PDF files into the folder.  
-> ### 🗂️ I ensure the files are properly named and sorted.  
-> ### 🔒 I compress the folder into a zip file and set a password.  
-> ### 📄 I verify each PDF opens without errors inside the zip.  
-> ### 📝 I document file paths, folder structure, and zip password. 
+> ### ➕ I create a folder named `CEO_Work_Files` in Documents.
+<img width="1037" height="81" alt="Mr4BcWI" src="https://github.com/user-attachments/assets/2b1965f4-9739-4072-b8e2-abb9695de89f" />
+
+> ### 📂 I copy sample PDF files into the folder.
+<img width="905" height="289" alt="GhRbmzK" src="https://github.com/user-attachments/assets/20364d27-4a5f-4194-aaaa-ea75fb1fdb58" />
+
+---
+
+<img width="911" height="242" alt="EGzIp0r" src="https://github.com/user-attachments/assets/06519564-9025-43c0-a89f-8c2bd0e3ee92" />
+
+---
+
+<img width="766" height="206" alt="n00T6Sh" src="https://github.com/user-attachments/assets/16fd182b-729e-41d0-b4c5-558f9824c4b7" />
+
+> ### 🗂️ I ensure the files are properly named and sorted.
+<img width="882" height="207" alt="BlEmZjg" src="https://github.com/user-attachments/assets/d73b985a-654e-4d43-af20-f9039e3e065f" />
+
+> ### 🔒 I compress the folder into a zip file and set a password.
+<img width="583" height="466" alt="TtlSwjU" src="https://github.com/user-attachments/assets/35c8f943-9d0f-46c4-aeae-dd2b5961b124" />
+
+> ### 🔒 I confirm the ZIP file is password‑protected and cannot be opened without the password.
+<img width="303" height="158" alt="vfAfThn" src="https://github.com/user-attachments/assets/93fea55b-ecab-423c-a12f-7fe4625d99eb" />
 
 ---
 
