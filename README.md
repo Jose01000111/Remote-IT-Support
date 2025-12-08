@@ -181,7 +181,7 @@
 ### 🧹 I cleaned up temporary files and disabled unnecessary startup programs.
 <img width="351" height="434" alt="p9cNIE0" src="https://github.com/user-attachments/assets/ffcdbc34-0405-4c00-9a34-ba8154d41525" />
 
----
+--- 
 
 <img width="612" height="91" alt="wqLrL23" src="https://github.com/user-attachments/assets/763be884-64ea-4b3e-b906-07d797d55c97" />
 
