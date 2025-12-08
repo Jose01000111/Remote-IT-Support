@@ -164,15 +164,17 @@
 
 ---
 
-# 🎫 TICKET 5 — Configure Outlook for CEO
-> ### I set up a new Outlook account for the CEO for testing purposes.
-<img width="667" height="298" alt="Ca3yeHv" src="https://github.com/user-attachments/assets/df74ef37-5773-47d5-9130-8dca0ba86a6b" />
+# 🎫 TICKET 6 — Fix Slow Laptop Performance on CEO Laptop
+### I investigated and resolved a performance issue on the CEO’s laptop during a business trip.
 
-> ### 📧 I create a lab Outlook account (`ceo.lab@example.com`).  
-> ### 🔐 I configure the account in Outlook on the CEO laptop.  
-> ### 💻 I send a test email to another lab account.  
-> ### 📤 I verify sending and receiving functions correctly.  
-> ### 📝 I capture screenshots of setup and test emails.
+
+### ❗ I confirmed the laptop was unusually slow and apps were lagging.
+### 🔍 I investigated causes: high CPU/memory usage, malware scan, and disk usage.
+### 🧹 I cleaned up temporary files and disabled unnecessary startup programs.
+### 🔄 I installed pending Windows updates and restarted the laptop.
+### ✅ I verified CPU/memory usage normalized and applications opened quickly.
+### 📝 I captured screenshots of Task Manager, Disk Cleanup, Startup programs, and Windows Update results.
+
 
 ---
 
