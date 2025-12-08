@@ -165,30 +165,30 @@
 ---
 
 # 🎫 TICKET 5 — Fix Slow Laptop Performance on CEO Laptop
-### I investigated and resolved a performance issue on the CEO’s laptop during a business trip.
+> ### I investigated and resolved a performance issue on the CEO’s laptop during a business trip.
 <img width="582" height="294" alt="oWDytIW" src="https://github.com/user-attachments/assets/a83b6fdd-df25-4616-8e55-94d0e443bc59" />
 
-### ❗ I confirmed the laptop was unusually slow and apps were lagging.
+> ### ❗ I confirmed the laptop was unusually slow and apps were lagging.
 <img width="639" height="329" alt="A0803yI" src="https://github.com/user-attachments/assets/25a95241-8043-49d5-a0f0-9a38b35bba33" />
 
-### 🔍 I investigated causes: high CPU/memory usage, malware scan, and disk usage.
+> ### 🔍 I investigated causes: high CPU/memory usage, malware scan, and disk usage.
 <img width="506" height="267" alt="Hr8GrUV" src="https://github.com/user-attachments/assets/735dc93c-2dc3-4de8-9aa7-57c7ad6bdce4" />
 
 ---
 
 <img width="584" height="173" alt="3TdvaDL" src="https://github.com/user-attachments/assets/de4fad52-cb01-446f-8912-abf95185f7f0" />
 
-### 🧹 I cleaned up temporary files and disabled unnecessary startup programs.
+> ### 🧹 I cleaned up temporary files and disabled unnecessary startup programs.
 <img width="351" height="434" alt="p9cNIE0" src="https://github.com/user-attachments/assets/ffcdbc34-0405-4c00-9a34-ba8154d41525" />
 
 --- 
 
 <img width="612" height="91" alt="wqLrL23" src="https://github.com/user-attachments/assets/763be884-64ea-4b3e-b906-07d797d55c97" />
 
-### 🔄 I installed pending Windows updates and restarted the laptop.
+> ### 🔄 I installed pending Windows updates and restarted the laptop.
 <img width="813" height="226" alt="9R7uOJR" src="https://github.com/user-attachments/assets/979c9250-ce8c-43ba-b578-293efae366e2" />
 
-### ✅ I verified CPU/memory usage normalized and applications opened quickly.
+> ### ✅ I verified CPU/memory usage normalized and applications opened quickly.
 <img width="764" height="252" alt="itlmFL5" src="https://github.com/user-attachments/assets/520c4d70-a58f-4eb3-9784-c96aa9156afb" />
 
 ---
