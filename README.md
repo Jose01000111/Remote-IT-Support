@@ -189,6 +189,7 @@
 <img width="813" height="226" alt="9R7uOJR" src="https://github.com/user-attachments/assets/979c9250-ce8c-43ba-b578-293efae366e2" />
 
 > ### ✅ I verified CPU/memory usage normalized and applications opened quickly.
+
 <img width="764" height="252" alt="itlmFL5" src="https://github.com/user-attachments/assets/520c4d70-a58f-4eb3-9784-c96aa9156afb" />
 
 ---
