@@ -199,10 +199,15 @@
 
 > ### 🖥️ I connect to the CEO laptop remotely through TeamViewer.
 > ### 🔐 I verify the laptop has internet/VPN access required for Tenable authentication.
-> ### ⚙️ I open Tenable.io or Nessus locally on the laptop and configure a Basic Network Scan.
-> ### 🚀 I launch the scan and monitor progress to ensure it completes without errors.
-> ### 📄 I document scan settings, findings, and any remediation actions taken.
+<img width="342" height="747" alt="Screenshot 2025-12-09 164128" src="https://github.com/user-attachments/assets/25cae495-ff55-40d2-820b-8e7680eed1f9" />
 
+> ### ⚙️ I open Tenable.io or Nessus locally on the laptop and configure a Basic Network Scan.
+> 
+> ### 🚀 I launch the scan and monitor progress to ensure it completes without errors.
+<img width="951" height="110" alt="Screenshot 2025-12-09 171017" src="https://github.com/user-attachments/assets/feb61d15-2475-4950-8a5b-6889c3463908" />
+
+> ### 📄 I document scan settings, findings, and any remediation actions taken.
+<img width="353" height="163" alt="Screenshot 2025-12-09 171418" src="https://github.com/user-attachments/assets/e8736cdf-bb30-402e-be1d-27a6a745a714" />
 
 ---
 
